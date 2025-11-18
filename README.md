@@ -1,9 +1,7 @@
 # Apa-itu-XSS-
 Ini buat topik dan penjelasan soal xSs untuk belajar cyber security dan keamanan 
 
-Berikut ini penjelasan singkat, fokus, dan relevan tentang XSS (Cross-Site Scripting) yang bisa kamu taruh di GitHub — cocok untuk README atau halaman wiki proyek kamu.
-🔐 Apa itu XSS (Cross-Site Scripting)?
-XSS adalah serangan injeksi kode berbahaya (umumnya JavaScript) ke dalam halaman web yang dilihat oleh pengguna lain. Serangan ini memanfaatkan kelemahan aplikasi web yang tidak memvalidasi atau men-sanitasi input pengguna dengan benar.
+
 🎯 Tujuan Serangan
  
 Mencuri cookie atau session token
